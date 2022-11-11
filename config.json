@@ -1,0 +1,16 @@
+{
+  "dnnpath": "data/dnn",
+  "dnn_min_confidence": 0.5,
+  "persons": [
+    {
+      "nickname": "julia",
+      "fullname": "Julia Hinterseer-Pinter",
+      "traindata": "data/traindata/julia"
+    },
+    {
+      "nickname": "bernd",
+      "fullname": "Bernd Pinter",
+      "traindata": "data/traindata/bernd"
+    }
+  ]
+}
